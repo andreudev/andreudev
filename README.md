@@ -1,5 +1,7 @@
 # Hola, mi nombre es Andrew Sarmiento Restrepo
-![Static Badge](https://img.shields.io/badge/Twitter-black?style=flat&logo=x&logoColor=black&color=white&link=https%3A%2F%2Ftwitter.com%2FSr17Andrew) ![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=black&color=white&link=https%3A%2F%2Fgithub.com%2Fandreudev) ![Static Badge](https://img.shields.io/badge/Instagram-black?style=flat&logo=instagram&color=white&link=https%3A%2F%2Fwww.instagram.com%2Fandrew_sr18)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=x&logoColor=black&color=white&link=https%3A%2F%2Ftwitter.com%2FSr17Andrew)]()
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=black&color=white&link=https%3A%2F%2Fgithub.com%2Fandreudev)]()
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=flat&logo=instagram&color=white&link=https%3A%2F%2Fwww.instagram.com%2Fandrew_sr18)]()
 
 #### Soy estudiante de desarrollo de sofware,técnico y tecnólogo en electrónica.
 En el 2017 empecé a meterme en el mundo de la electrónica por la autimatización y robótica, gracias al colegio donde hice mi bachiller técnico.
