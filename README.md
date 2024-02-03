@@ -3,7 +3,8 @@
 
 Soy estudiante de desarrollo de sofware,técnico y tecnólogo en electrónica
 En el 2017 empecé a meterme en el mundo de la electrónica por la autimatización y robótica, gracias al colegio donde hice mi bachiller técnico.
-Desde ese momento empecé desarrollando pequeños proyectos en Arduino y ganar en una expociencia de mi ciudad en la cual hice una impresora 3D implementando un arduino, quedando de 1ro en la categoria de innovación y 2do en la expociencia general, hasta graduarme como técnico bachiller en electrónica.
+Desde ese momento empecé desarrollando pequeños proyectos en Arduino y ganar en una expociencia de mi ciudad en la cual hice una impresora 3D (Génesis 3D) implementando un arduino, quedando de 1ro en la categoria de innovación y 2do en la expociencia general, hasta graduarme como técnico bachiller en electrónica.
+![](https://raw.githubusercontent.com/andreudev/andreudev/main/impresora3d-premio.png){width='100px'}
 <!---
 andreudev/andreudev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
