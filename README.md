@@ -11,6 +11,9 @@ Desde ese momento empecé desarrollando pequeños proyectos en Arduino y ganar e
 ![](https://raw.githubusercontent.com/andreudev/andreudev/main/impresora3d-premio.png)
 
 Luego ingresé a la universidad del valle, para estudiar tecnología en electrónica en la que me hizo enamorarme más de la programación implementando microcontroladores PIC y ESP32 implementando proyectos hacía la industrial 4.0 (IoT). En estos proyectos utilicé mis conococimientos en C,Python y Node.Js(Node-red)
+
+Actualmente estoy estudiando desarrollo de sofware en la universidad del valle
+
 ## Tecnologías:
 [![C](https://img.shields.io/badge/C-2b5b84?style=for-the-badge&logo=C&logoColor=gray&labelColor=white)]()
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=gray&labelColor=white)]()
