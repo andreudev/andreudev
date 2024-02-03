@@ -10,7 +10,11 @@ Desde ese momento empecé desarrollando pequeños proyectos en Arduino y ganar e
 
 Luego ingresé a la universidad del valle, para estudiar tecnología en electrónica en la que me hizo enamorarme más de la programación implementando microcontroladores PIC y ESP32 implementando proyectos hacía la industrial 4.0 (IoT). En estos proyectos utilicé mis conococimientos en C,Python y Node.Js(Node-red)
 ## Tecnologías:
-![C](https://img.shields.io/badge/C-2b5b84?style=for-the-badge&logo=C&logoColor=gray&labelColor=white) ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=gray&labelColor=white) ![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=gray&labelColor=white) ![Node-Red](https://img.shields.io/badge/Node--Red-a22222?style=for-the-badge&logo=nodered&logoColor=gray&labelColor=white)
+[![C](https://img.shields.io/badge/C-2b5b84?style=for-the-badge&logo=C&logoColor=gray&labelColor=white)]()
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=gray&labelColor=white)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=gray&labelColor=white)]()
+[![Node-Red](https://img.shields.io/badge/Node--Red-a22222?style=for-the-badge&logo=nodered&logoColor=gray&labelColor=white)]()
+</br>
 
 <!---
 andreudev/andreudev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
