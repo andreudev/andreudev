@@ -19,7 +19,6 @@ Actualmente estoy estudiando desarrollo de sofware en la universidad del valle
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=gray&labelColor=white)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=gray&labelColor=white)]()
 [![Node-Red](https://img.shields.io/badge/Node--Red-a22222?style=for-the-badge&logo=nodered&logoColor=gray&labelColor=white)]()
-</br>
 
 <!---
 andreudev/andreudev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
