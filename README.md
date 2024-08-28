@@ -8,8 +8,6 @@ En el 2017 empecé a meterme en el mundo de la electrónica por la autimatizaci�
 
 Desde ese momento empecé desarrollando pequeños proyectos en Arduino y ganar en una expociencia de mi ciudad en la cual hice una impresora 3D (Génesis 3D) implementando un arduino, quedando de 1ro en la categoria de innovación y 2do en la expociencia general, hasta graduarme como técnico bachiller en electrónica.
 
-![](https://raw.githubusercontent.com/andreudev/andreudev/main/impresora3d-premio.png)
-
 Luego ingresé a la universidad del valle, para estudiar tecnología en electrónica en la que me hizo enamorarme más de la programación implementando microcontroladores PIC y ESP32 implementando proyectos hacía la industrial 4.0 (IoT). En estos proyectos utilicé mis conococimientos en C,Python y Node.Js(Node-red)
 
 Actualmente estoy estudiando desarrollo de sofware en la universidad del valle
