@@ -3,14 +3,14 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=black&color=white&link=https%3A%2F%2Fgithub.com%2Fandreudev)](https://github.com/andreudev)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=flat&logo=instagram&color=white&link=https%3A%2F%2Fwww.instagram.com%2Fandrew_sr18)](https://www.instagram.com/andrew_sr18/)
 
-#### Soy estudiante de desarrollo de sofware,técnico y tecnólogo en electrónica.
-En el 2017 empecé a meterme en el mundo de la electrónica por la autimatización y robótica, gracias al colegio donde hice mi bachiller técnico.
+#### I am a student of software development, technician and technologist in electronics.
+In 2017, I started to get into the world of electronics by automation and robotics, thanks to the school where I did my technical baccalaureate.
 
-Desde ese momento empecé desarrollando pequeños proyectos en Arduino y ganar en una expociencia de mi ciudad en la cual hice una impresora 3D (Génesis 3D) implementando un arduino, quedando de 1ro en la categoria de innovación y 2do en la expociencia general, hasta graduarme como técnico bachiller en electrónica.
+From that moment I started developing small projects in Arduino and winning in a science exhibition in my city in which I made a 3D printer (Genesis 3D) implementing an Arduino, being 1st in the category of innovation and 2nd in the general science exhibition, until I graduated as a technical bachelor in electronics.
 
-Luego ingresé a la universidad del valle, para estudiar tecnología en electrónica en la que me hizo enamorarme más de la programación implementando microcontroladores PIC y ESP32 implementando proyectos hacía la industrial 4.0 (IoT). En estos proyectos utilicé mis conococimientos en C,Python y Node.Js(Node-red)
+Then I entered the university of the valley, to study electronics technology, which made me fall in love with programming implementing PIC and ESP32 microcontrollers implementing projects towards the industrial 4.0 (IoT). In these projects I used my knowledge in C, Python and NodeJS (Node-network).
 
-Actualmente estoy estudiando desarrollo de sofware en la universidad del valle
+Currently, I am studying Software Engineering at Jala University located in California, USA.
 
 ## Tecnologías:
 [![C](https://img.shields.io/badge/C-2b5b84?style=for-the-badge&logo=C&logoColor=gray&labelColor=white)]()
