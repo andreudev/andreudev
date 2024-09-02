@@ -8,7 +8,7 @@ In 2017, I started to get into the world of electronics by automation and roboti
 
 From that moment I started developing small projects in Arduino and winning in a science exhibition in my city in which I made a 3D printer (Genesis 3D) implementing an Arduino, being 1st in the category of innovation and 2nd in the general science exhibition, until I graduated as a technical bachelor in electronics.
 
-Then I entered the university of the valley, to study electronics technology, which made me fall in love with programming implementing PIC and ESP32 microcontrollers implementing projects towards the industrial 4.0 (IoT). In these projects I used my knowledge in C, Python and NodeJS (Node-network).
+Then I entered the university of the valley, to study electronics technology, which made me fall in love with programming implementing PIC and ESP32 microcontrollers implementing projects towards the industrial 4.0 (IoT). In these projects I used my knowledge in C, Python and NodeJS (Node-Red).
 
 Currently, I am studying Software Engineering at Jala University located in California, USA.
 
