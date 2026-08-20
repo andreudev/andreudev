@@ -34,21 +34,16 @@ I work at the intersection of manual testing, automation, and AI — writing tes
 ## GitHub stats
 
 <p>
-  <img src="https://img.shields.io/github/followers/andreudev?label=followers&style=flat-square&logo=github&color=4c1" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fandreudev&query=%24.public_repos&label=public+repos&style=flat-square&logo=github&color=4c1" alt="Public repositories" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fandreudev&query=%24.following&label=following&style=flat-square&logo=github&color=4c1" alt="Following" />
-  <img src="https://komarev.com/ghpvc/?username=andreudev&style=flat-square&color=4c1" alt="Profile views" />
+  <a href="https://github.com/andreudev"><img src="https://img.shields.io/github/followers/andreudev?label=followers&style=flat-square&logo=github&color=4c1" alt="GitHub followers" /></a>
+  <a href="https://github.com/andreudev"><img src="https://img.shields.io/github/stars/andreudev?label=total+stars&style=flat-square&logo=github&color=4c1" alt="Total stars across personal repos" /></a>
+  <a href="https://komarev.com/ghpvc/?username=andreudev"><img src="https://komarev.com/ghpvc/?username=andreudev&style=flat-square&color=4c1" alt="Profile views" /></a>
+  <a href="https://github.com/andreudev/followers"><img src="https://img.shields.io/badge/followers-3-4c1?style=flat-square&logo=github" alt="Follower count" /></a>
+  <a href="https://github.com/andreudev?tab=repositories"><img src="https://img.shields.io/badge/public%20repos-49-4c1?style=flat-square&logo=github" alt="Public repo count" /></a>
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreudev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://ghchart.rshah.org/4c1/andreudev.svg" alt="GitHub contribution graph" />
 </p>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreudev&theme=tokyonight&hide_border=true" alt="GitHub stats: stars, commits, pull requests, issues" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andreudev&theme=tokyonight&hide_border=true" alt="Productive time" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=andreudev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://ghchart.rshah.org/4c1/andreudev.svg" alt="GitHub contribution graph" />
 
 ---
 
