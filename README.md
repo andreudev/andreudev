@@ -68,7 +68,7 @@ I work at the intersection of manual testing, automation, and AI — writing tes
 
 ## GitHub stats
 
-<img src="https://streak-stats.demolab.com?user=andreudev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub contribution streak: total contributions, current streak, longest streak" />
+<img src="https://raw.githubusercontent.com/andreudev/andreudev-streak/main/streak.svg" alt="GitHub contribution streak: total contributions, current streak, longest streak" />
 
 <p>
   <img src="https://img.shields.io/badge/followers-3-4cc11b?style=for-the-badge&logo=github" alt="Followers" />
