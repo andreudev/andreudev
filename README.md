@@ -23,26 +23,43 @@ I work at the intersection of manual testing, automation, and AI — writing tes
 
 **QA tooling:** Jira · XRAY · TestRail · Git
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cs" alt="Languages" />
-  <img src="https://skillicons.dev/icons?i=playwright,cypress,github,jenkins,docker" alt="Automation and CI" />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" /></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" /></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" /></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java" /></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=cs" width="48" alt="C#" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=playwright" width="48" alt="Playwright" /></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=cypress" width="48" alt="Cypress" /></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=jenkins" width="48" alt="Jenkins" /></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" /></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL" /></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB" /></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase" /></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /></td>
+  </tr>
+</table>
 
 ---
 
 ## GitHub stats
 
 <p>
-  <a href="https://github.com/andreudev"><img src="https://img.shields.io/github/followers/andreudev?label=followers&style=flat-square&logo=github&color=4c1" alt="GitHub followers" /></a>
-  <a href="https://github.com/andreudev"><img src="https://img.shields.io/github/stars/andreudev?label=total+stars&style=flat-square&logo=github&color=4c1" alt="Total stars across personal repos" /></a>
-  <a href="https://komarev.com/ghpvc/?username=andreudev"><img src="https://komarev.com/ghpvc/?username=andreudev&style=flat-square&color=4c1" alt="Profile views" /></a>
-  <a href="https://github.com/andreudev/followers"><img src="https://img.shields.io/badge/followers-3-4c1?style=flat-square&logo=github" alt="Follower count" /></a>
-  <a href="https://github.com/andreudev?tab=repositories"><img src="https://img.shields.io/badge/public%20repos-49-4c1?style=flat-square&logo=github" alt="Public repo count" /></a>
+  <a href="https://github.com/andreudev"><img src="https://img.shields.io/github/followers/andreudev?label=followers&style=flat-square&logo=github&color=4cc11b" alt="GitHub followers" /></a>
+  <a href="https://github.com/andreudev"><img src="https://img.shields.io/github/stars/andreudev?label=total+stars&style=flat-square&logo=github&color=4cc11b" alt="Total stars across personal repos" /></a>
+  <a href="https://github.com/andreudev/followers"><img src="https://img.shields.io/badge/followers-3-4cc11b?style=flat-square&logo=github" alt="Follower count" /></a>
+  <a href="https://github.com/andreudev?tab=repositories"><img src="https://img.shields.io/badge/public%20repos-49-4cc11b?style=flat-square&logo=github" alt="Public repo count" /></a>
 </p>
 
 <p>
-  <img src="https://ghchart.rshah.org/4c1/andreudev.svg" alt="GitHub contribution graph" />
+  <img src="https://ghchart.rshah.org/4cc11b/andreudev.svg" alt="GitHub contribution graph" />
 </p>
 
 ---
